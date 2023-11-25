@@ -1,0 +1,4 @@
+baseURL = 'https://potatophantom.github.io/'
+languageCode = 'en-us'
+title = 'PotatoPhantom'
+theme = 'ananke'
